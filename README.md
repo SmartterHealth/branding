@@ -5,6 +5,8 @@ SmartterHealth logos, icons, and other branding material.
 
 ## Images
 
+More images can be found in the /images folder.
+
 ### Main Logo (transparent)
 
 <img alt="Logo Transparent Background" src="images/logo_transparent_background.png" width="250"/>
