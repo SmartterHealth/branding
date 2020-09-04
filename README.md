@@ -7,7 +7,7 @@ SmartterHealth logos, icons, and other branding material.
 
 ### Primary  Logo (Full)
 
-<img alt="Primary SmartterHealth Logo - Full Size" src="Primary Logo//primary - full.png" width="500"/>
+<img alt="Primary SmartterHealth Logo - Full Size" src="Primary Logo//primary - full.png" width="750"/>
 
 ### Primary  Logo (Icon)
 
@@ -15,5 +15,5 @@ SmartterHealth logos, icons, and other branding material.
 
 ### Primary  Logo (Wordmark)
 
-<img alt="Primary SmartterHealth Logo - Wordmark" src="Primary Logo//primary - wordmark.png" width="250"/>
+<img alt="Primary SmartterHealth Logo - Wordmark" src="Primary Logo//primary - wordmark.png" width="750"/>
 
