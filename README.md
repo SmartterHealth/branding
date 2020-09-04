@@ -5,25 +5,15 @@ SmartterHealth logos, icons, and other branding material.
 
 ## Images
 
-More images can be found in the /images folder.
+### Primary  Logo (Full)
 
-### Main Logo (transparent)
+<img alt="Primary SmartterHealth Logo - Full Size" src="Primary Logo//primary - full.png" width="250"/>
 
-<img alt="Logo Transparent Background" src="images/logo_transparent_background.png" width="250"/>
+### Primary  Logo (Icon)
 
-### Dark Logo (transparent)
+<img alt="Primary SmartterHealth Logo - Icon Size" src="Primary Logo//primary - icon.png" width="250"/>
 
-<img alt="Dark Transparent Background" src="images/dark_logo_transparent_background.png" width="250"/>
+### Primary  Logo (Wordmark)
 
-### White Logo (transparent)
-
-<img alt="White Transparent Background" src="images/white_logo_transparent_background.png" width="250"/>
-
-### ICD2 Bot (96 x 96)
-
-<img alt="Logo Transparent Background" src="images/ICD296x96.png"/>
-
-### ICD2 Bot (20 x 20)
-
-<img alt="Logo Transparent Background" src="images/ICD220x20.png"/>
+<img alt="Primary SmartterHealth Logo - Wordmark" src="Primary Logo//primary - wordmark.png" width="250"/>
 
